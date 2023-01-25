@@ -1,2 +1,0 @@
-lightgbm==3.3.3
-category_encoders==2.5.1.post0

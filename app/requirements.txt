@@ -1,0 +1,8 @@
+pandas==1.5.2
+joblib==1.2.0
+lightgbm==3.3.3
+category_encoders==2.5.1.post0
+fastapi==0.88.0
+uvicorn==0.20.0
+joblib==1.2.0
+scikit_learn==1.1.2
